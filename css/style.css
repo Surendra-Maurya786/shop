@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Flamenco');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+*{
+	margin:0;
+	padding: 0;
+}
+.heading{
+	margin-top: 20px;
+
+}
+
+.heading:hover{
+	margin-bottom: 2px solid 
+}
+
+h3{
+	margin-top: -50px;
+	font-family: 'Arvo', serif;
+	font-weight: bolder;
+	
+
+}
+h3:hover{
+margin-bottom: 2px solid black;
+}
+
+.main-nav{
+
+	font-size: 20px;
+}
+
+td{
+
+	font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.order{
+	font-weight: bolder;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	font-family: 'Arvo', serif;
+	margin-left: 500px;
+
+}
+.user_container{
+	background-color: black;
+	max-width: 100%;
+	max-height: auto;
+}
+
+.username{
+	font-size: 50px;
+	margin: 0;
+}
